@@ -1,0 +1,1 @@
+it let me compare when the code actually worked to when the code didn't work, being then able to see where I made changes specifically helped me spot the bugger quicker. My source of the bug went from possibly being anywhere in almost a thousand lines to being in about 5 lines
